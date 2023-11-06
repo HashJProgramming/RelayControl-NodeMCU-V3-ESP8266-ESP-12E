@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "array": "cpp",
+        "memory": "cpp",
+        "ranges": "cpp",
+        "functional": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "variant": "cpp"
+    }
+}
